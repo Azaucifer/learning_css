@@ -1,0 +1,35 @@
+h1 {
+    text-transform: uppercase;
+
+    font-weight: 800;
+    color: red;
+    font-style: italic;
+    text-decoration: underline blueviolet wavy;
+}
+
+h2 {
+    text-transform: lowercase;
+
+    font-weight: 800;
+    color: brown;
+    font-style: oblique;
+    text-decoration: overline blue dashed;
+}
+
+p {
+    text-transform: capitalize;
+
+    font-style: oblique 55deg;
+    color: darkblue;
+    font-weight: 400;
+    text-decoration: line-through purple dotted;
+}
+
+a {
+    text-transform: lowercase;
+
+    color: darkcyan;
+    font-weight: 200;
+    text-decoration: none;
+    font-style: italic;
+}
