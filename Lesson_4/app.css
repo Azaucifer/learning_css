@@ -1,0 +1,28 @@
+h1 {
+    font-style: italic;
+
+    text-decoration: underline red wavy;
+    font-weight: 800px;
+
+}
+
+h2 {
+    font-style: oblique;
+
+    text-decoration: overline green dashed;
+    font-weight: 700px;
+}
+
+p {
+    font-style: oblique 45deg;
+
+    text-decoration: line-through blue;
+    font-weight: 400;
+}
+
+a {
+    font-style: normal;
+
+    text-decoration: none;
+    font-weight: 200;
+}
