@@ -1,0 +1,15 @@
+#ul_none {
+    list-style: none;
+}
+
+#ul_square {
+    list-style: square;
+}
+
+#ul_circle {
+    list-style: circle;
+}
+
+#ul_disc {
+    list-style: disc;
+}
