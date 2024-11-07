@@ -1,0 +1,23 @@
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: right;
+}
+
+h4 {
+    text-align: left;
+}
+
+p {
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+}
+
+#anchor-align {
+    text-align: center;
+}
