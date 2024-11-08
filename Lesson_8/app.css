@@ -1,0 +1,13 @@
+h2 {
+    line-height: 1.2;
+
+    text-align: center;
+}
+
+p {
+    line-height: 1.5;
+}
+
+#line-height2 {
+    line-height: 2;
+}
