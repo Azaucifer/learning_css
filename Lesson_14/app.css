@@ -1,0 +1,25 @@
+.hero-section {
+    font-size: 30px;
+    color: blue;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    line-height: 40px;
+    text-decoration: underline black;
+    background-color: antiquewhite;
+}
+
+a:visited, a:link {
+    text-decoration: none;
+    text-transform: none;
+    color: blueviolet;
+}
+
+a:hover, a:active {
+    text-decoration: dotted red;
+    text-transform: none;
+    color: black;
+    font-size: larger;
+}
