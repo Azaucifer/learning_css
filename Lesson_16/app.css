@@ -1,0 +1,11 @@
+.first-le::first-letter {
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.first-li::first-line {
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 700;
+}
