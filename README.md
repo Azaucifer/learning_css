@@ -64,6 +64,7 @@ git clone https://github.com/your-username/Learning-CSS.git
 
 ## 🛠 Contributing
 If you'd like to contribute by adding examples or correcting any errors, feel free to open a pull request. Contributions and feedback are always welcome!
+Refer this <a href="https://github.com/Azaucifer/learning_css/blob/main/CONTRIBUTING.md">Documentation</a> for all the rules to follow when contributing to this repo.
 
 ## 📚 Resources 
 Here are some additional resources to further your CSS knowledge:
