@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+
+h1::after {
+    content: 'Beta';
+    font-size: 12px;
+    color: purple;
+}
+
+p::before {
+    content: 'Beta';
+    font-size: 12px;
+    color: red;
+}
