@@ -1,0 +1,13 @@
+.pill {
+    width: 500px;
+    height: 200px;
+    background-color: plum;
+    border-radius: 100px;
+}
+
+.circle {
+    width: 200px;
+    height: 200px;
+    background-color: plum;
+    border-radius: 100px;
+}
