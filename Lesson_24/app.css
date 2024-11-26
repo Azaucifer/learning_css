@@ -1,0 +1,19 @@
+.content-box {
+    width: 800px;
+    height: 400px;
+    padding: 50px;
+    border: 10px solid black;
+    background-color: plum;
+    box-sizing: content-box;   /*this is default value and there is no need to mention this */
+}
+
+/* When you inspect this - the dimensions of the box show 920x520, which is equal to the sum of the dimensions mentioned above */
+
+.border-box {
+    width: 800px;
+    height: 400px;
+    padding: 50px;
+    border: 10px;
+    background-color: khaki;
+    box-sizing: border-box;
+}
