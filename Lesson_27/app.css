@@ -1,0 +1,13 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 800px;
+    background-color: lightblue;
+    margin-left: auto;
+    margin-right: auto;
+    /* you can also write it as margin: 0 auto; */
+}
