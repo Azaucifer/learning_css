@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.no-width {
+    background-color: lightcoral;
+    display: inline-block;
+    text-align: center;
+}
+
+.width {
+    background-color: lightgreen;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+
+.min-width {
+    background-color: lightskyblue;
+    display: inline-block;
+    text-align: center;
+    min-width: 200%;
+}
